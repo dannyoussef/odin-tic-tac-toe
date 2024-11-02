@@ -1,2 +1,3 @@
-# odin-tic-tac-toe
+# Project: Tic-Tac-Toe | The Odin Project
+
 Project: Tic Tac Toe | The Odin Project
